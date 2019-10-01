@@ -1,0 +1,7 @@
+AAR=55
+PAAR=40
+Hstart=180
+Hend=240
+Hfile=100
+radius=1000
+CapAer=90
